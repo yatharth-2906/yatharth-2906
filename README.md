@@ -1,6 +1,6 @@
+![MasterHead](https://github.com/yatharth-2906/yatharth-2906/assets/97800277/05c7f7cf-0a5b-4687-8d1e-7d916267aec2)
 <h1 align="center">Hi 👋, I'm Yatharth</h1>
 <h3 align="center">Data science and artificial intelligence enthusiast with a passion for leveraging data-driven insights to solve complex problems.</h3>
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth-2906&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth-2906" /> </p>
