@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/yatharth2906" target="blank"><img src="https://img.shields.io/twitter/follow/yatharth2906?logo=twitter&style=for-the-badge" alt="yatharth2906" /></a> </p>
 
-- 🌱 I’m currently leading **Data Science Team of ACM JUIT**
+- 🌱 I’m currently **Secreatry @ ACM JUIT**
 
 - 💬 Ask me about **Data Science, AI, ML**
 
